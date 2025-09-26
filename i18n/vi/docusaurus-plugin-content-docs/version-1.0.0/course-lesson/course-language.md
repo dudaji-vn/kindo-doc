@@ -4,7 +4,7 @@ hide_table_of_contents: true
 custom_edit_url: null
 pagination_next: null
 pagination_prev: null
-title: Course's language
+title: Ngôn ngữ của khóa học
 ---
 
 # Ngôn ngữ của khóa học
