@@ -1,0 +1,14 @@
+{
+  "item.label.My Site": {
+    "message": "My Site",
+    "description": "Navbar item with label My Site"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
