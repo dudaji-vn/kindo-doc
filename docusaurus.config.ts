@@ -12,15 +12,15 @@ try {
 }
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Kindo Docs',
+  tagline: 'Learning Korean with Kindo',
   favicon: 'img/kindo_avatar.png',
 
   future: {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://docs.kindo.kr',
   baseUrl: '/',
 
   organizationName: 'facebook',
@@ -37,7 +37,7 @@ const config: Config = {
             label: 'English'
         },
         vi: {
-            label: "Vietnamese"
+            label: "Tiếng Việt"
         },
     },
   },
@@ -64,15 +64,15 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
+      logo: {
+        alt: "My Site Logo",
+        src: "/img/logo.png",
+        srcDark: "/img/logo-dark.png",
+      },
       items: [
         {
-          type: 'html',
-          value: '<img src="/img/kindo_h_logo.png" alt="My Site Logo" style="height:32px;" />',
-          position: 'left',
-        },
-        {
           href: 'https://www.kindo.kr',
-          label: 'My Site',
+          label: 'Homepage',
           position: 'left',
         },
         {

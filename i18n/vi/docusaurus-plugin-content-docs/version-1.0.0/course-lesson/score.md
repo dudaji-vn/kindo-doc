@@ -4,7 +4,7 @@ hide_table_of_contents: true
 custom_edit_url: null
 pagination_next: null
 pagination_prev: null
-title: Scoce of Lessons & Courses
+title: Điểm số của Bài học & Khóa học
 ---
 
 # Điểm số của Bài học & Khóa học
